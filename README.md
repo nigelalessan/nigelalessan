@@ -1,5 +1,3 @@
-## Hi My Name Is Nigel 👋
-
 <!--
 **nigelalessan/nigelalessan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi My Name Is Nigel 👋
+
 # 💫 About Me:
-✨ Enthusiastic Data Explorer & Lifelong Learner! 🚀<br>
-<br>I'm a highly passionate and cheerful individual, deeply fascinated by the world of data. I love diving into datasets to uncover meaningful insights and stories 🕵️‍♀️.
-<br><br>🧠 Currently Learning: Data Science, AI/Machine Learning
-<br><br>💡 Interested in: Data Analysis, Data Visualization, and everything that helps me translate raw data into actionable knowledge!
-<br><br>🔥 My Goal: To continuously grow my skills and contribute to impactful, data-driven projects.
+✨ Enthusiastic Data Explorer & Lifelong Learner! 🚀<br><br>
+I'm a highly passionate and cheerful individual, deeply fascinated by the world of data. I love diving into datasets to uncover meaningful insights and stories 🕵️‍♀️.<br>
+🧠 Currently Learning: Data Science, AI/Machine Learning<br>
+💡 Interested in: Data Analysis, Data Visualization, and everything that helps me translate raw data into actionable knowledge!<br>
+🔥 My Goal: To continuously grow my skills and contribute to impactful, data-driven projects.
 
 
 ## 🌐 Socials:
