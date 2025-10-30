@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-✨ Enthusiastic Data Explorer & Lifelong Learner! 🚀<br><br>I'm a highly passionate and cheerful individual, deeply fascinated by the world of data. I love diving into datasets to uncover meaningful insights and stories 🕵️‍♀️.<br><br>🧠 Currently Learning: Data Science, AI/Machine Learning<br><br>💡 Interested in: Data Analysis, Data Visualization, and everything that helps me translate raw data into actionable knowledge!<br><br>🔥 My Goal: To continuously grow my skills and contribute to impactful, data-driven projects.
+✨ Enthusiastic Data Explorer & Lifelong Learner! 🚀<br>
+<br>I'm a highly passionate and cheerful individual, deeply fascinated by the world of data. I love diving into datasets to uncover meaningful insights and stories 🕵️‍♀️.
+<br><br>🧠 Currently Learning: Data Science, AI/Machine Learning
+<br><br>💡 Interested in: Data Analysis, Data Visualization, and everything that helps me translate raw data into actionable knowledge!
+<br><br>🔥 My Goal: To continuously grow my skills and contribute to impactful, data-driven projects.
 
 
 ## 🌐 Socials:
